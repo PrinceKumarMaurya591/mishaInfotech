@@ -1,0 +1,5 @@
+package com.mishaInfotech.entity;
+
+public class User {
+
+}

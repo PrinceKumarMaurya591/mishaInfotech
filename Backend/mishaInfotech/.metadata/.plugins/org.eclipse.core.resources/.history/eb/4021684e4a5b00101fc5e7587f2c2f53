@@ -1,0 +1,5 @@
+package com.mishaInfotech.dto;
+
+public class UserDTO {
+
+}
