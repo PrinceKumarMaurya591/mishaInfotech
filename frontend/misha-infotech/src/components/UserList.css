@@ -1,0 +1,47 @@
+/* UserList.css */
+
+.card {
+  width: 100%;
+  max-width: 1024px;
+  margin: 2rem auto;
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, .08);
+}
+
+.card-header {
+  padding: 1.25rem 2rem;
+  background: linear-gradient(135deg,#0069d9 0%,#0052a3 100%);
+  border-bottom: none;
+}
+
+.card-header h2 {
+  margin: 0;
+  font-size: 1.35rem;
+  color: #fff;
+}
+
+.btn-light {
+  font-weight: 600;
+  border-radius: .5rem;
+}
+
+.table-responsive {
+  border-radius: .75rem;
+  overflow: hidden;
+}
+
+.table {
+  margin-bottom: 0;
+}
+
+.table thead th {
+  vertical-align: middle;
+  background: #343a40;
+  color: #fff;
+  font-weight: 600;
+}
+
+.alert-info {
+  border-radius: .5rem;
+}
